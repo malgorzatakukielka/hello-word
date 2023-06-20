@@ -1,4 +1,4 @@
 # hello-word
 Malgorzata Kukielka
-GitHub
+The guide tutorial
 test - readme na GitHub
